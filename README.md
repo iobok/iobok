@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iobok
-- 👀 I’m interested in raeding
+- 👀 I’m interested in reading
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
